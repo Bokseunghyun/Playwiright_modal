@@ -24,5 +24,4 @@
 3. pytest 설치
 - pip install pytest
 
-4. 파이썬용 allure 설치
-- pip install allure-pytest
+4. allure 설치
