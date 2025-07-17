@@ -25,3 +25,4 @@
 - pip install pytest
 
 4. allure 설치
+Allure는 별도 설치 및 환경변수 설정 필요
